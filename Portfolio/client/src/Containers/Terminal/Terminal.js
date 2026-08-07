@@ -5,7 +5,7 @@ import './Terminal.css';
 const Terminal = () => {
   const [output, setOutput] = useState([
     "Windows PowerShell",
-    "Copyright (C) Micr0s0ft Corporation. Tous droits réservés.",
+    "Copyright (C) Microsoft Corporation. Tous droits réservés.",
     "",
     "Tapez 'help' pour afficher la liste des commandes, about  ou 'cv' pour consulter le CV de Styve."
   ]);
