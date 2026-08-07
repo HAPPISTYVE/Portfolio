@@ -147,7 +147,7 @@ export const handleCommand = (command, setOutput, clearTerminal, previousOutput)
         "CONTACTS : +237 698378718 / 674134293 | happychendjou@icloud.com",
         "",
         "--- FORMATION & ÉDUCATION ---",
-        "• IUT University, Ngaoundéré (Oct 2025 - Juin 2026) : 1ère année universitaire",
+        "• IUT University, Ngaoundéré (sept 2026 - Juin 2027) : 2ème année universitaire",
         "• GCE Ordinary Level & GCE Advance Level",
         "",
         "--- EXPÉRIENCE PROFESSIONNELLE ---",
